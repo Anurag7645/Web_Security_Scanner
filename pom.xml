@@ -33,6 +33,13 @@
             <version>1.4.14</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.zaproxy</groupId>
+            <artifactId>zap-clientapi</artifactId>
+            <version>1.16.0</version>
+        </dependency>
+
+
     </dependencies>
 
     <properties>
